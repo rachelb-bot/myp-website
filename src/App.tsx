@@ -160,7 +160,7 @@ function Founder() {
           and understanding in MYP mathematics</strong>, focusing on criteria B, C, and D tasks.
         </p>
         <p>
-          We’re currently working with 50+ students, equipping them with the skills needed to
+          We’ve supported 300+ students so far, equipping them with the skills needed to
           excel in MYP mathematics, and also prepare them for the rigours of the IB DP.
         </p>
         <p>
@@ -333,7 +333,7 @@ function WorldMap() {
         </div>
         <div className="stat-item">
           <User size={48} className="stat-icon" />
-          <span>150+ active students</span>
+          <span>300+ students supported</span>
         </div>
       </div>
       <img className="map-image" src={asset('/site-assets/Group-14877.png')} alt="" loading="lazy" decoding="async" />
